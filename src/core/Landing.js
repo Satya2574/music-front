@@ -1,7 +1,5 @@
 import React from "react";
 import Base from "./Base";
-import { Link } from "react-router-dom";
-import { isAuthenticated } from "../auth/helper";
 
 const Landing = () => {
   return (
